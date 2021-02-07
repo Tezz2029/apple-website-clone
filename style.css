@@ -1,0 +1,66 @@
+.navbar {
+  background-color: #3a3a3a;
+}
+
+.fa-apple,
+.fa-search,
+.fa-shopping-bag {
+  font-size: 25px;
+}
+.racial-equity {
+  background-image: url(/img/Racial-equity-apple-clone-image.jpg);
+  height: 636px;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+  z-index: 100;
+  position: relative;
+}
+.watch-section {
+  background-color: black;
+  position: relative;
+}
+.red-img {
+  position: absolute;
+  top: -5px;
+  left: -10px;
+  z-index: 10;
+}
+.apple-icon {
+  font-size: 35px;
+}
+
+homepod-mini-section {
+  background-color: #fbfbfc;
+}
+
+.tv-section {
+  background-color: #000000;
+}
+
+.tv-heading {
+  font-size: 60px;
+}
+
+.tv-icon {
+  height: 35px;
+}
+
+.apple-tv {
+  height: 400px;
+  width: 600px;
+  border-radius: 40px;
+}
+
+/* .green-img {
+  position: absolute;
+  bottom: -58px;
+  right: -10px;
+}
+
+.new-sec {
+  background-color: blue;
+  position: relative;
+  z-index: 10;
+  height: 400px;
+} */
